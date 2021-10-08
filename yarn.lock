@@ -6886,6 +6886,11 @@ json-stringify-safe@~5.0.1:
   resolved "https://registry.yarnpkg.com/json-stringify-safe/-/json-stringify-safe-5.0.1.tgz#1296a2d58fd45f19a0f6ce01d65701e2c735b6eb"
   integrity sha1-Epai1Y/UXxmg9s4B1lcB4sc1tus=
 
+json-to-csv-in-browser@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/json-to-csv-in-browser/-/json-to-csv-in-browser-1.0.3.tgz#2d022884cbe3927b02e6259ebd4ffa8aae6b1b9b"
+  integrity sha512-gpj/0EGc47mGbLWM+2pGo4mmEoh54X3zblYEP2OsH1k6mIdx5NzSv9zwKRtS3nMBJhOLE3+bxm9woUG/+eZv3A==
+
 json5@^0.5.0, json5@^0.5.1:
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/json5/-/json5-0.5.1.tgz#1eade7acc012034ad84e2396767ead9fa5495821"

@@ -15,5 +15,11 @@ module.exports = {
   plugins: [
   ],
   // add your custom rules here
-  rules: {}
+  rules: {
+    'prefer-promise-reject-errors': 0,
+    'require-await': 0,
+    'no-unused-vars': 0,
+    'no-console': 0,
+    eqeqeq: 0
+  }
 }
